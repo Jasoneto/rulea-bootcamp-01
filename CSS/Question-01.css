@@ -10,11 +10,6 @@ body {
     letter-spacing: 1%;    
 }
 
-/*main {
-    display: flex;
-    flex-direction: column;
-}*/
-
 h1 {
     font-family: 'Noto', serif;
     font-weight: 700;
@@ -26,10 +21,6 @@ h1 {
 h2 {
     font-size: 24px;
     line-height: 26.4px;
-}
-
-ul {
-    
 }
 
 a {
