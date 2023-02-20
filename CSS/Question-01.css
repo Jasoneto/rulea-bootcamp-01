@@ -1,31 +1,14 @@
-:root {
-    --main-color: black;
-}
-
-body {
-    font-family: 'Nunito';
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 17.6px;
-    letter-spacing: 1%;    
-}
-
-h1 {
-    font-family: 'Noto', serif;
+.content__title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 39.6px;
-    text-align: center;
 }
 
-h2 {
+.content__subtitle {
     font-size: 24px;
-    line-height: 26.4px;
 }
 
-a {
+.btn__question-01 {
     display: flex;
     justify-content: center;
     font-size: 16px;
-    line-height: 17.6px;          
 }
