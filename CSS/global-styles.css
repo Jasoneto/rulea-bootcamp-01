@@ -4,20 +4,22 @@
 
 body {
     font-family: 'Nunito', serif;
-    line-height: 17.6px;
     letter-spacing: 1%;
+    line-height: 17.6px;
 }
 
 h1 {
     font-family: 'Noto', serif;
+    font-size: 36px;
+    font-weight: 700;
     line-height: 39.6px;
     text-align: center;
 }
 
 h2 {
+    font-size: 24px;
+    font-weight: 400;
     line-height: 26.4px;
 }
 
-p, a {
-    line-height: 17.6px;
-}
+

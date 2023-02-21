@@ -1,14 +1,4 @@
-.content__title {
-    font-weight: 700;
-    font-size: 36px;
-}
-
-.content__subtitle {
-    font-size: 24px;
-}
-
 .btn__question-01 {
     display: flex;
     justify-content: center;
-    font-size: 16px;
 }
