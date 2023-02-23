@@ -7,3 +7,15 @@
     display: flex;
     justify-content: center;
 }
+
+.content__subtitle {
+    margin: 50px 0px 50px 50px;
+}
+
+.copy {
+    margin: 50px 0px 80px 50px;
+}
+
+.copy__specifications {
+    padding-right: 400px;
+}
