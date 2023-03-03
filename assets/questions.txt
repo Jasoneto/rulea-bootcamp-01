@@ -1,0 +1,79 @@
+TICKET:
+Copy - Generate questionary questions
+
+---Homepage---
+
+<h1> Rulea activity </h1>
+
+<h2> Trivia </h2>
+
+<p>
+
+Through this trivia, basic concepts of HTML,
+CSS and Javascript will be strengthened, as well
+as the layout of this project.
+
+</p>
+
+---Question 1---
+
+<h1> Layout </h1>
+<h2> Which is the difference into tags <article>, <section> and <div>?</h2>
+<p>
+    <li>
+    answer 1: <article> is an interactive widget or gadget, <section> is a tag to represent the content index and <div>
+    is a default tag set by the browser.
+    </li>
+    <li>
+    answer 2: <article> is a self-contained tag in a document, a page, or application, <section> represents a generic
+    section of a document and <div> is used to create sections or group content.
+    </li>
+</p>
+
+---Question 2---
+
+<h1> CSS </h1>
+<h2> The pseudo class :read-only represents an element:</h2>
+<p>
+    <li>
+    which is no longer editable by the user.
+    </li>
+    <li>
+    which represents links the user has already visited.
+    </li>
+    <li>
+    which represents elements that do not match a list of selectors.
+    </li>
+</p>
+
+---Question 3---
+
+<h1> JS </h1>
+<h2> With the const keyword:</h2>
+<p>
+    <li>
+    A variable can be re-declared and reassigned.
+    </li>
+    <li>
+    A variable can be reassigned, but not re-declared.
+    </li>
+    <li>
+    A variable cannot be re-declared or reassigned.
+    </li>
+</p>
+
+---Last Card---
+
+<h1> Results </h1>
+<h2> Thanks for join in the process!!</h2>
+<p>
+    <li>
+    Result question 1
+    </li>
+    <li>
+    Result question 2
+    </li>
+    <li>
+    Result question 3
+    </li>
+</p>
